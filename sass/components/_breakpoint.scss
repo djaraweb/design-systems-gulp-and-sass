@@ -1,0 +1,13 @@
+@media (min-width: $breakpoint-lg) {
+  // Laptop: $breakpoint-lg: 992px;
+  body {
+    background-color: yellow;
+  }
+}
+
+@media (min-width: $breakpoint-md) {
+  // tablet: $breakpoint-md: 768px;
+  body {
+    background-color: rgb(0, 255, 76);
+  }
+}
